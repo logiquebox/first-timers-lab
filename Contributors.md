@@ -14,4 +14,6 @@ Add your name and handle here ✍
 
   -sample [@sample](https://twitter.com/sam)
 
-  retry [@retry](https://twitter.com/sam)
+  retry [@retry](https://twitter.com/retry)
+
+attempt [@attempt](https://twitter.com/retry)
