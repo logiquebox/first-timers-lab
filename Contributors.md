@@ -13,3 +13,5 @@ Add your name and handle here ✍
   -goshedy [@goshedy](https://twitter.com/goshedy)
 
   -sample [@sample](https://twitter.com/sam)
+
+  retry [@retry](https://twitter.com/sam)
